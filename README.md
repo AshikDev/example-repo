@@ -5,4 +5,4 @@
 04. sudo git commit -m "Initial Commit"
 05. git push origin master
 06. git Log
-07. git checkout
+07. git checkout README.md/master/<>
